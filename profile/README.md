@@ -1,4 +1,4 @@
-![DanBot Hosting](https://github.com/DanBot-Hosting/.github/Assets/Images/DanBot-Hosting-Banner.png)
+![DanBot Hosting](https://github.com/DanBot-Hosting/.github/blob/main/Assets/Images/DanBot-Hosting-Banner.png)
 
 # Links:
 * [Discord Server](https://discord.gg/dbh)
