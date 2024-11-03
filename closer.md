@@ -6,6 +6,8 @@ We are very happy that you have made these changes and are able to help us make 
 
 Which means if you check out https://docs.danbot.host now you can see all the new changes that have been made!
 
+For any questions join our discord server:
+[![](https://dcbadge.limes.pink/api/server/https://discord.gg/dbh?style=flat-square)](https://discord.gg/dbh)
 
 # Notes
 Site may take time if many files we changed or packages were updated or their are errors, we try and make sure no errors happen before so we will normally test most big changes!
