@@ -1,4 +1,4 @@
-# Thank you for making a pr!
+# Thank you for making a Pull Request!
 
 The maintainers of the [DBH Docs](https://github.com/DanBot-Hosting/DBH-Docs) greatly apprciate you helping us out, by finding bugs and issues that we haven't gotten to yet!
 
