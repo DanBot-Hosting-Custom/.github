@@ -1,4 +1,4 @@
-# Thank you for opening a Pull Request!
+# Pull Request has been merged
 
 [![DanBot Hosting](https://cdn.discordapp.com/attachments/898041849783148585/1300957264857006191/e08a80fd345ab5d3302d7b1a50cd9b24.png?ex=6728a91e&is=6727579e&hm=bdbc5b66b26adfaf1ee3470821dc7bfc02801c7a5ce87feadf492674736a4eb5&)](https://danbot.host)
 
