@@ -1,4 +1,4 @@
-# Pull Request has been merged
+# Thank you for opening a pull request!
 
 [![DanBot Hosting](https://raw.githubusercontent.com/DanBot-Hosting-Custom/.github/refs/heads/main/DanBot-Hosting-Banner-New.png)](https://danbot.host)
 
